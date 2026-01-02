@@ -18,7 +18,7 @@
 - 💬 An interest lies in understanding how users, data, and business logic connect in real-world applications.
 - 🌱 Growth comes from continuous learning and building practical solutions.
 
-## ⚙️ &nbsp;Tech Stack
+## ⚙️ &nbsp;Technical Stack
 
 #### ⌨️ Languages
 
