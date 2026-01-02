@@ -6,19 +6,10 @@
   />
 </div>
 
-<div align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api
-      ?type=waving
-      &height=160
-      &text=Hello,%20I'm%20Daeho%20Won
-      &fontSize=36
-      &fontAlignY=45
-      &color=gradient"
-    alt="header"
-  />
-</div>
+<h3 align="center">
+  Hello, I'm Daeho Won
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
 
 <br />
