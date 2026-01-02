@@ -1,8 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:8EC5FC,100:E0C3FC&height=300&section=header&text=Creativity%20is%20the%20engine&fontColor=ffffff&fontSize=58)
-
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:8EC5FC,100:E0C3FC&height=300&section=header&text=Creativity%20is%20the%20engine&fontColor=4A90E2&fontSize=58)
 </div>
 
 ---
