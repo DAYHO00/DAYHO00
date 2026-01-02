@@ -1,68 +1,85 @@
+<!-- Top Wave Header -->
 <div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:8EC5FC,100:E0C3FC&height=300&section=header&text=Creativity%20is%20the%20engine&fontColor=4A90E2&fontSize=58)
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:8EC5FC,100:E0F2FE&reversal=true"
+  />
 </div>
 
----
+<!-- Main Header -->
+<div align="center">
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:8EC5FC,100:E0C3FC&height=300&section=header&text=Creativity%20is%20the%20engine&fontColor=4A90E2&fontSize=58)
+</div>
 
-## 👋 Hi, I'm Jiyu Kim  
-### ☁️ Cloud Engineer | 🤖 Aspiring Cloud AI Engineer
+<!-- Greeting -->
+<h3 align="center">
+  Hi, I'm Daeho Won
+  <img
+    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
+    width="28"
+  />
+</h3>
 
----
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img
+      src="https://readme-typing-svg.herokuapp.com/?lines=
+    Software%20Engineer;
+    Always%20learning%20new%20things;
+    Building%20reliable%20systems;
+    Learning%20by%20building;
+    Turning%20ideas%20into%20code
+    &font=Fira%20Code
+    &center=true
+    &width=440
+    &height=45"
+    />
+  </a>
+</p>
 
-## 👀 About Me
-- ☁️ **Cloud Engineer** based in South Korea  
-- 🤖 Interested in **AI services built on cloud infrastructure**
-- 🎓 B.S. in **Applied Artificial Intelligence**,  
-  Sungkyunkwan University (SKKU)
-- 🔥 Focused on building **scalable, reliable, and automation-friendly systems**
-
----
-
-## 🧱 Tech Stack
-
-### 🧑‍💻 Languages
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-
-> Python 기반 데이터 처리, 자동화 스크립트 및 웹 백엔드 개발 경험
-
----
-
-### 📚 Libraries
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
-
-> 딥러닝 모델 실험 및 웹 자동화 경험
-
----
-
-### ⚙️ Frameworks
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-
-> REST API 설계 및 프론트엔드와의 연동 경험
-
----
-
-### ☁️ Cloud & Tools
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
-
-> AWS 환경에서 서비스 배포 및 데이터베이스 연동 경험
-
----
-
-## 📈 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiyu-Kim&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiyu-Kim&layout=compact)
-
----
-
-## 📫 Contact
-- GitHub: https://github.com/Jiyu-Kim  
+--- - 👨‍💻 As an AI & Software Engineer, I'm constantly learning and exploring new
+technologies to improve my skills. - 💬 Ask me about my experience with Mobile
+Application Development, Machine Learning. - 🌱 I’m diving deeper into _[Machine
+Learning](https://www.coursera.org/browse/data-science/machine-learning)_ and
+_[AI](https://www.deeplearning.ai/)_ ## 🛠 &nbsp;Tech Stack #### 🔧 Languages
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+#### 🖥️ Frameworks
+![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
+#### 📚 Libraries
+![Numpy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23E20000.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
+#### 🔧 Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23121011.svg?style=for-the-badge&logo=gitlab&logoColor=yello)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![IntelliJ
+IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Android
+Studio](https://img.shields.io/badge/Android%20Studio-%23000000.svg?style=for-the-badge&logo=android-studio&logoColor=3DDC84)
+![Visual Studio
+Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual
+Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Adobe
+XD](https://img.shields.io/badge/Adobe%20XD-%23FF61F6.svg?style=for-the-badge&logo=adobe%20xd&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
