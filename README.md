@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,100:0083B0&height=300&section=header&text=Engineer&fontColor=ffffff&fontSize=64&desc=Building%20Reliable%20Systems%20on%20the%20Cloud%20☁️⚙️&descAlignY=65&descSize=25)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:8EC5FC,100:E0C3FC&height=300&section=header&text=Creativity%20is%20the%20engine&fontColor=ffffff&fontSize=58)
 
 
 </div>
