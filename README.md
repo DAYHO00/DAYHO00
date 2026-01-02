@@ -8,7 +8,6 @@
 </h3>
 
 <br />
-<br />
 
 - 👨‍💻 Focused on turning complex requirements into reliable systems.
 - 💬 An interest lies in understanding how users, data, and business logic connect in real-world applications.
