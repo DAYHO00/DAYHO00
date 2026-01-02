@@ -13,8 +13,6 @@
 - 👨‍💻 Focused on turning complex requirements into reliable systems.
 - 💬 An interest lies in understanding how users, data, and business logic connect in real-world applications.
 - 🌱 Growth comes from continuous learning and building practical solutions.
-- 🧩 Experience with Microsoft Dynamics 365 CRM, including Dataverse entity modeling,
-  Web API integration, and Power Automate workflow automation.
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -45,10 +43,6 @@
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-#### 🗄️ Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
 #### 🔧 Tools
 
 ![Microsoft Dynamics 365](https://img.shields.io/badge/Microsoft_Dynamics_365-002050?style=for-the-badge&logo=microsoft-dynamics&logoColor=white)
@@ -67,3 +61,5 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
