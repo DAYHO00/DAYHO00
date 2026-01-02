@@ -68,11 +68,12 @@
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <div align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&flip=true"
-    alt="footer"
-  />
+ <img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&flip=true"
+  alt="footer"
+/>
+
 </div>
 
 
