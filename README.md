@@ -19,6 +19,20 @@
 - 💬 An interest lies in understanding how users, data, and business logic connect in real-world applications.
 - 🌱 Growth comes from continuous learning and building practical solutions.
 
+---
+
+## 📊 Repository Language Stats
+
+> This section updates automatically based on the code in this repository.
+
+<div align="center">
+
+![Languages](https://raw.githubusercontent.com/<OWNER>/<REPO>/main/metrics.plugin.languages.details.svg)
+
+</div>
+
+---
+
 ## ⚙️ &nbsp;Tech Stack
 
 #### ⌨️ Languages
@@ -67,6 +81,3 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-
