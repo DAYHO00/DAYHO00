@@ -36,7 +36,9 @@
 
 </details>
 
-#### 🧱 Frameworks & Platforms
+#### 
+<details open>
+<summary>🧱 Frameworks & Platforms</summary>
 
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
@@ -46,13 +48,21 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-%23FF9900.svg?style=for-the-badge&logo=amazonec2&logoColor=white)
 
-#### 📦 Libraries
+</details>
+
+#### 
+<details open>
+<summary>📦 Libraries</summary>
 
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-#### 🧰 Tools
+</details>
+
+#### 
+<details open>
+<summary>🧰 Tools</summary>
 
 ![Microsoft Dynamics 365](https://img.shields.io/badge/Microsoft_Dynamics_365-002050?style=for-the-badge&logo=microsoft-dynamics&logoColor=white)
 ![Dataverse](https://img.shields.io/badge/Dataverse-742774?style=for-the-badge&logo=microsoft&logoColor=white)
@@ -70,6 +80,8 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+</details>
 
 
 
