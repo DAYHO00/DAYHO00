@@ -36,9 +36,9 @@
 
 </details>
 
-#### 
+
 <details open>
-<summary>🧱 Frameworks & Platforms</summary>
+<summary><strong>🧱 Frameworks & Platforms</strong></summary>
 
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
@@ -52,7 +52,7 @@
 
 #### 
 <details open>
-<summary>📦 Libraries</summary>
+<summary><strong>📦 Libraries</strong></summary>
 
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -62,7 +62,7 @@
 
 #### 
 <details open>
-<summary>🧰 Tools</summary>
+<summary><strong>🧰 Tool</strong>s</summary>
 
 ![Microsoft Dynamics 365](https://img.shields.io/badge/Microsoft_Dynamics_365-002050?style=for-the-badge&logo=microsoft-dynamics&logoColor=white)
 ![Dataverse](https://img.shields.io/badge/Dataverse-742774?style=for-the-badge&logo=microsoft&logoColor=white)
