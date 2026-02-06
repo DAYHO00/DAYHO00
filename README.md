@@ -24,7 +24,8 @@
 
 <details open>
 <summary><strong>⌨️ Languages</strong></summary>
-&nbsp;
+<br>
+   
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -39,7 +40,7 @@
 
 <details open>
 <summary><strong>🧱 Frameworks & Platforms</strong></summary>
-
+<br>
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Ant Design](https://img.shields.io/badge/Ant_Design-%230170FE.svg?style=for-the-badge&logo=antdesign&logoColor=white)
@@ -53,7 +54,7 @@
 #### 
 <details open>
 <summary><strong>📦 Libraries</strong></summary>
-
+<br>
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -63,7 +64,7 @@
 #### 
 <details open>
 <summary><strong>🧰 Tool</strong>s</summary>
-
+<br>
 ![Microsoft Dynamics 365](https://img.shields.io/badge/Microsoft_Dynamics_365-002050?style=for-the-badge&logo=microsoft-dynamics&logoColor=white)
 ![Dataverse](https://img.shields.io/badge/Dataverse-742774?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power_Automate-%230066FF.svg?style=for-the-badge&logo=powerautomate&logoColor=white)
