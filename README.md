@@ -21,7 +21,7 @@
 
 ## ⚙️ &nbsp;Tech Stack
  
- </summary>
+ <summary>
 #### ⌨️ Languages
  </summary>
 
