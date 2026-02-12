@@ -73,7 +73,6 @@
 
 ![Git](https://img.shields.io/badge/Git-C2410C.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2563EB.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-111827.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ![Postman](https://img.shields.io/badge/Postman-C2410C.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-4D7C0F.svg?style=for-the-badge&logo=swagger&logoColor=white)
