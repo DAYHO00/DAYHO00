@@ -44,7 +44,7 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-3D5F54.svg?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Ant Design](https://img.shields.io/badge/Ant_Design-2C6DB2.svg?style=for-the-badge&logo=antdesign&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-6A3FB5.svg?style=for-the-badge&logo=dotnet&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-4E8A54.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-4E8A54.svg?style=for-the-badge&logo=Azure&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-4E8A54.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-C8792B.svg?style=for-the-badge&logo=amazonec2&logoColor=white)
 
