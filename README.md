@@ -67,9 +67,9 @@
 <details open>
 <summary><strong>🧰 Tools</strong></summary>
 
-![Microsoft Dynamics 365](https://img.shields.io/badge/Dynamics_365-4A90E2?style=for-the-badge&logo=microsoft-dynamics&logoColor=white)
-![Dataverse](https://img.shields.io/badge/Dataverse-8E44AD?style=for-the-badge&logo=microsoft&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power_Automate-3B82F6.svg?style=for-the-badge&logo=powerautomate&logoColor=white)
+![Microsoft Dynamics 365](https://img.shields.io/badge/Microsoft_Dynamics_365-4A90E2?style=for-the-badge&logo=microsoftdynamics365&logoColor=white)
+![Dataverse](https://img.shields.io/badge/Dataverse-8E44AD?style=for-the-badge&logo=microsoftdataverse&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-3B82F6?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F1502F.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-4FC3F7.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-333333.svg?style=for-the-badge&logo=github&logoColor=white)
