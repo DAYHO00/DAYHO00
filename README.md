@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
   <img
     width="100%"
@@ -63,4 +62,3 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4078AA.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 </details>
-```
