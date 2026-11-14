@@ -1,42 +1,72 @@
-# Daeho Won
+<div align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true"
+    alt="header"
+  />
+</div>
 
-**Software Engineer**
+<h3 align="center">
+  Hello, I'm Daeho Won
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
-I focus on understanding business requirements, designing reliable systems, and improving software through practical problem-solving.
+<br />
+<br />
 
-My experience spans enterprise applications, system integration, API development, and performance optimization.
+- 👨‍💻 Focused on turning complex requirements into reliable systems.
+- 💬 An interest lies in understanding how users, data, and business logic connect in real-world applications.
+- 🌱 Growth comes from continuous learning and building practical solutions.
 
----
+## ⚙️ &nbsp;Tech Stack
 
-## Tech Stack
 
-### Languages
+<details open>
+<summary><strong>⌨️ Languages</strong></summary>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-3A8FD8.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-F89820.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-7B5BD6.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F2C94C.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
-### Frameworks & Libraries
+</details>
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
 
-### Database & Infrastructure
+<details open>
+<summary><strong>🧱 Frameworks & Platforms</strong></summary>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![React](https://img.shields.io/badge/React-4FC3F7.svg?style=for-the-badge&logo=react&logoColor=black)
+![.NET](https://img.shields.io/badge/.NET-8B5CF6.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6CC24A.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-3FA9F5.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-FFB84D.svg?style=for-the-badge&logo=amazonec2&logoColor=black)
 
-### Enterprise & Tools
+</details>
 
-![Dynamics 365](https://img.shields.io/badge/Dynamics_365-002050?style=flat-square&logo=dynamics365&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+####
+
+<details open>
+<summary><strong>📦 Libraries</strong></summary>
+
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF5C5C?style=for-the-badge&logo=reactquery&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-4F8CC9.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-6F42C1.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+</details>
+
+
+####
+
+<details open>
+<summary><strong>🧰 Tools</strong></summary>
+
+![Microsoft Dynamics 365](https://img.shields.io/badge/Microsoft_Dynamics_365-4A90E2?style=for-the-badge&logo=microsoftdynamics365&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-3B82F6?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F1502F.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-4FC3F7.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-F2C94C.svg?style=for-the-badge&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4F8CC9.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+</details>
