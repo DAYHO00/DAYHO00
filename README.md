@@ -55,7 +55,6 @@
 <summary><strong>🧰 Tools</strong></summary>
 
 ![Microsoft Dynamics 365](https://img.shields.io/badge/Microsoft_Dynamics_365-3976BA?style=for-the-badge&logo=microsoftdynamics365&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power_Automate-326CBF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-C8462B.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-399FC5.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-D6B545.svg?style=for-the-badge&logo=linux&logoColor=black)
